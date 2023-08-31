@@ -1,0 +1,16 @@
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/DoubleFormatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/restservice/RestServiceController.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/Varchar2Formatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/IFormatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/entities/XbrlNodeLeaf.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/entities/Entity.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/restservice/Extract.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/restservice/RestServiceApplication.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/extractor/XbrlDataExtractor.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/IntegerFormatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/NumberFormatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/entities/LinkBetweenSubjects.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/FloatFormatter.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/entities/Metadata.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/entities/Note.java
+/home/bkumpar/eclipse-workspace/orange_task/src/main/java/com/bkumpar/orange/formatters/Formatter.java

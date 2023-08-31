@@ -1,0 +1,16 @@
+com/bkumpar/orange/restservice/RestServiceController.class
+com/bkumpar/orange/entities/Metadata.class
+com/bkumpar/orange/formatters/DoubleFormatter.class
+com/bkumpar/orange/entities/Entity.class
+com/bkumpar/orange/formatters/IntegerFormatter.class
+com/bkumpar/orange/formatters/IFormatter.class
+com/bkumpar/orange/entities/LinkBetweenSubjects.class
+com/bkumpar/orange/entities/XbrlNodeLeaf.class
+com/bkumpar/orange/formatters/Formatter.class
+com/bkumpar/orange/formatters/FloatFormatter.class
+com/bkumpar/orange/restservice/Extract.class
+com/bkumpar/orange/restservice/RestServiceApplication.class
+com/bkumpar/orange/formatters/Varchar2Formatter.class
+com/bkumpar/orange/extractor/XbrlDataExtractor.class
+com/bkumpar/orange/formatters/NumberFormatter.class
+com/bkumpar/orange/entities/Note.class
